@@ -6,6 +6,6 @@ e permitindo ter acesso a todos esses registros.
 
 <br>
 
-Project for financial control through the registration of traditional expenses
+Project for financial control through the registration of traditional expenses    
 
-and allowing access to all those records.
+and allowing access to all those records.        
